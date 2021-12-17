@@ -17,10 +17,13 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fdevgossips%2Flinktree)
 
+### :pray: If you find this useful  :
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V06SFN0)
+
 ## Contributing
 We always welcome contributions; big or small, it can be documentation updates, adding new checks or something bigger. Please check the Contributing Guide for details on how to help out.
 
-## :pray: Special Thanks to those People who have contributed 
+## Special Thanks to those People who have contributed 
 
 <img width="170px" src="https://contrib.rocks/image?repo=devgossips/linktree" />
 
