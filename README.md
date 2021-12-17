@@ -17,8 +17,8 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fdevgossips%2Flinktree)
 
-### :pray: If you find this useful  :
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V06SFN0)
+### :pray: If you find this useful  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/heysagnik.svg?style=social&label=Follow%20%40heysagnik)](https://twitter.com/heysagnik)
+
 
 ## Contributing
 We always welcome contributions; big or small, it can be documentation updates, adding new checks or something bigger. Please check the Contributing Guide for details on how to help out.
