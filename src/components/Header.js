@@ -1,13 +1,13 @@
 import React from 'react'
 import SunIcon from './Icons/SunIcon'
 import MoonIcon from './Icons/MoonIcon'
-import logo from '../assets/Upstream-8.png'
+import logo from '../assets/tilmann.jpg'
 import '../css/skeleton.css'
 import '../css/normalize.css'
 import '../css/components.css'
 
 function Header() {
-  const [theme, setTheme] = React.useState(() => document.body.getAttribute('data-theme') ?? 'dark')
+  const [theme, setTheme] = React.useState(() => document.body.getAttribute('data-theme') ?? 'light')
   React.useEffect(() => {
     document.body.setAttribute('data-theme', theme)
   }, [theme])
@@ -21,11 +21,11 @@ function Header() {
         <img src={logo} alt="logo" />
         &nbsp;&nbsp;&nbsp;
         <h2>
-          <b>Sagnik </b>
+          <b>Tilmann </b>
         </h2>
       </div>
       <button className="switch-theme-button" onClick={handleSwitchTheme}>
-        {isDark ? <SunIcon color="white" /> : <MoonIcon  />}
+        {isDark ? <SunIcon color="white" /> : <MoonIcon />}
       </button>
     </div>
   )
