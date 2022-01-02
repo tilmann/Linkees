@@ -30,7 +30,7 @@ const items = [
         "link": "https://telegram.me/tilmannb" //Telegram Pofile 
     },
     {
-        "title": "Work on Climate",
+        "title": "Bäm! Investment",
         "subtitle": "invest with me",
         "image": baem,
         "link": "https://baem-investment.de" //your personal website or portfolio  link
