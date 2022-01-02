@@ -24,7 +24,7 @@ const items = [
     },
     {
         "title": "Telegram",
-        "subtitle": "@tilmannb | chate with me",
+        "subtitle": "@tilmannb | chat with me",
         "image": telegram,
         "link": "https://telegram.me/tilmannb" //Telegram Pofile 
     },
