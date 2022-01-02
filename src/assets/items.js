@@ -1,4 +1,4 @@
-import website from '../assets/website.png'
+//import website from '../assets/website.png'
 // import instagram from '../assets/instagram.png'
 // import appstore from '../assets/playstore.png'
 // import youtube from '../assets/youtube.jpeg'
@@ -6,6 +6,7 @@ import website from '../assets/website.png'
 import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
+import wocl from '../assets/wocl.png'
 
 const items = [
 
@@ -23,14 +24,14 @@ const items = [
     },
     {
         "title": "Telegram",
-        "subtitle": "@tilmannb | talk to me",
+        "subtitle": "@tilmannb | chate with me",
         "image": telegram,
         "link": "https://telegram.me/tilmannb" //Telegram Pofile 
     },
     {
         "title": "Work on Climate",
         "subtitle": "work with me",
-        "image": website,
+        "image": wocl,
         "link": "https://workonclimate.org" //your personal website or portfolio  link
     },
     // {
