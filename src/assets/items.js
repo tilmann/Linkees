@@ -7,26 +7,33 @@ import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 import wocl from '../assets/wocl.png'
+import baem from '../assets/baem.png'
 
 const items = [
 
     {
-        "title": "Twitter",
-        "subtitle": "@tilmannb | learn with me",
+        "title": "@tilmannb",
+        "subtitle": "learn with me",
         "image": twitter,
         "link": "https://twitter.com/tilmannb"// twitter profile link 
     },
     {
-        "title": "GitHub",
-        "subtitle": "@tilmann | build with me",
+        "title": "@tilmann",
+        "subtitle": "build with me",
         "image": github,
         "link": "https://github.com/tilmann" //Github Profile link
     },
     {
-        "title": "Telegram",
-        "subtitle": "@tilmannb | chat with me",
+        "title": "@tilmannb",
+        "subtitle": "chat with me",
         "image": telegram,
         "link": "https://telegram.me/tilmannb" //Telegram Pofile 
+    },
+    {
+        "title": "Work on Climate",
+        "subtitle": "invest with me",
+        "image": baem,
+        "link": "https://baem-investment.de" //your personal website or portfolio  link
     },
     {
         "title": "Work on Climate",
