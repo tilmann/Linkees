@@ -1,13 +1,15 @@
-//import website from '../assets/website.png'
-// import instagram from '../assets/instagram.png'
-// import appstore from '../assets/playstore.png'
-// import youtube from '../assets/youtube.jpeg'
-// import dribbble from '../assets/dribbble.png'
-import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
+import github from '../assets/github.png'
 import wocl from '../assets/wocl.png'
 import baem from '../assets/baem.png'
+import cal from '../assets/cal.png'
+
+// import instagram from '../assets/instagram.png'
+// import appstore from '../assets/playstore.png'
+// import dribbble from '../assets/dribbble.png'
+// import youtube from '../assets/youtube.jpeg'
+// import website from '../assets/website.png'
 
 const items = [
 
@@ -33,13 +35,19 @@ const items = [
         "title": "Bäm! Investment",
         "subtitle": "invest with me",
         "image": baem,
-        "link": "https://baem-investment.de" //your personal website or portfolio  link
+        "link": "https://baem-investment.de"
     },
     {
         "title": "Work on Climate",
         "subtitle": "work with me",
         "image": wocl,
-        "link": "https://workonclimate.org" //your personal website or portfolio  link
+        "link": "https://workonclimate.org"
+    },
+    {
+        "title": "My calendar",
+        "subtitle": "meet with me",
+        "image": cal,
+        "link": "https://tidycal.com/tilmannb/25"
     },
     // {
     //     "title": "Instagram",
